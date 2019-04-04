@@ -1,0 +1,57 @@
+/* ****************************** Layout 4 ************************* */
+.layout4 {
+    display: flex;
+    justify-content: center;
+}
+
+.layout4-image-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.layout4-two-image-container {
+    display: flex;
+    flex: 100%;
+}
+.layout4-two-image-container1{
+    display: flex;
+    width: 100%;
+
+}
+.layout4-two-image-container2{
+    display: flex;
+    width: 100%;
+}
+.layout4-one-image-container-image {
+    height: 86px;
+    margin-bottom: 8px;
+    padding: 0 8px 0 8px;
+    margin-right: 8px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.layout4-two-image-container1-image {
+    height: 80px;
+    padding: 0 4px 0 8px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.layout4-two-image-container2-image {
+    height: 80px;
+    padding: 0 0 0 4px;
+    margin-right: 8px;
+    object-fit: cover;
+    width: 100%;
+}
+.layout4-input-container{
+    flex: 25%;
+}
+.layout4-input {
+    height: 174px;
+    width: 90%;
+    border-style: dotted;
+    word-wrap: break-word !important;
+}

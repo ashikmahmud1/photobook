@@ -1,0 +1,41 @@
+/* ****************************** Layout 3 ************************* */
+.layout3 {
+    display: flex;
+    justify-content: center;
+    padding: 0 4px 8px 8px;
+}
+
+.layout3-container1,
+.layout3-container2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.layout3-image1 {
+    height: 144px;
+    width: 100%;
+    padding: 0 4px 8px 1px;
+}
+
+.layout3-input1 {
+    height: 30px;
+    width: 100%;
+    border-style: dotted;
+    padding: 0 4px 8px 1px;
+    word-wrap: break-word !important;
+}
+
+.layout3-image2 {
+    height: 144px;
+    width: 100%;
+    padding: 0 4px 8px 4px;
+}
+
+.layout3-input2 {
+    height: 30px;
+    width: 100%;
+    border-style: dotted;
+    padding: 0 4px 8px 4px;
+    word-wrap: break-word !important;
+}

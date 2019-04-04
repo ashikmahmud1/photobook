@@ -1,0 +1,53 @@
+/* ****************************** Layout 5 ************************* */
+.layout5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.layout5-image-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.layout5-one-image-container{
+    display: flex;
+    width: 100%;
+}
+.layout5-one-image-container-image {
+    height: 144px;
+    width: 100%;
+    padding: 8px 8px 0 8px;
+    object-fit: cover;
+}
+.layout5-two-image-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.layout5-two-image-container1-image {
+    height: 80px;
+    padding: 8px 8px 4px 0;
+    width: 100%;
+    object-fit: cover;
+}
+
+.layout5-two-image-container2-image {
+    height: 64px;
+    padding: 0 8px 0 0;
+    width: 100%;
+    object-fit: cover;
+}
+
+.layout5-input {
+    height: 30px;
+    width: 100%;
+    border-style: dotted;
+    word-wrap: break-word !important;
+}
+
+.layout5-input-container{
+    width: 100%;
+    padding-right:10px ;
+    padding-left: 10px;
+}

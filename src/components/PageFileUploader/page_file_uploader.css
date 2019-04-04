@@ -1,0 +1,50 @@
+.upload-single {
+    border: 2px dashed #b4bbc8;
+}
+.drop-section{
+    width: 100%;
+    height: 100%;
+}
+/************************ Layout 1 *************************/
+/*only one image*/
+.layout1-image-uploader{
+    height: 172px;
+}
+/************************ Layout 2 *************************/
+/*only one image*/
+.layout2-image-uploader{
+    height: 150px;
+}
+/************************ Layout 3 *************************/
+/*two image*/
+.layout3-image1-uploader{
+    height: 144px;
+}
+.layout3-image2-uploader{
+    height: 144px;
+}
+/************************ Layout 4 *************************/
+/*three image*/
+.layout4-image1-uploader{
+    height: 94px;
+}
+.layout4-image2-uploader{
+    height: 80px;
+}
+.layout4-image3-uploader{
+    height: 80px;
+}
+/************************ Layout 5 *************************/
+/*three image*/
+.layout5-image1-uploader{
+    height: 144px;
+}
+.layout5-image2-uploader{
+    height: 72px;
+}
+.layout5-image3-uploader{
+    height: 72px;
+}
+
+
+/********************************************************** For Modal We need To Re-assign height **************************************************************/

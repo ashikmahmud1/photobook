@@ -1,0 +1,18 @@
+.navbar{
+    position: relative;
+    z-index: 999;
+    box-shadow: 0 0 1px rgba(0, 0, 0, .14), 0 2px 4px rgba(0, 0, 0, .038);
+}
+.logo {
+    width: 100%;
+    display: block !important;
+    text-align: center;
+}
+
+.logo .title-1 {
+    color: #9747b7;
+}
+
+.logo .title-2 {
+    color: #967f7a;
+}
